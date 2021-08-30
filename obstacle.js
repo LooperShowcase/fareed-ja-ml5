@@ -15,6 +15,6 @@ class Obstacle {
   }
 
   move() {
-    this.x -= 30;
+    this.x -= 10;
   }
 }
